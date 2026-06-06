@@ -1,0 +1,4 @@
+#jab main iss project ko github par push karunga toh there are some folders which are not required
+#for eg file which can contain sensitive information so we add these type of files
+#in gitignore file
+venv/  
